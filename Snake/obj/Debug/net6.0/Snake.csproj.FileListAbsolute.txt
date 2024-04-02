@@ -1,0 +1,471 @@
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/Snake
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/Snake.deps.json
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/Snake.runtimeconfig.json
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/Snake.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/Snake.pdb
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/SFML.Audio.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/SFML.Graphics.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/SFML.System.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/SFML.Window.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-audio.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-graphics.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-system.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-window.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-audio.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-graphics.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-system.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-system.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-window.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-window.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-audio.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-graphics.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-system.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-window.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-audio.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-graphics.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-system.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-system.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-window.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-window.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-audio.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-graphics.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-system.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-system.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-window.so
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-window.so.2.5
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-Audio.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-Graphics.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-System.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-Window.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x64/native/openal32.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-Audio.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-Graphics.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-System.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-Window.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/bin/Debug/net6.0/runtimes/win-x86/native/openal32.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.csproj.AssemblyReference.cache
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.AssemblyInfoInputs.cache
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.AssemblyInfo.cs
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.csproj.CoreCompileInputs.cache
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.csproj.CopyComplete
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/refint/Snake.dll
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.pdb
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/Snake.genruntimeconfig.cache
+/Users/vitaly/Downloads/9_GameController-2/Snake/obj/Debug/net6.0/ref/Snake.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/Snake
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/Snake.deps.json
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/Snake.runtimeconfig.json
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/Snake.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/Snake.pdb
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/SFML.Audio.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/SFML.Graphics.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/SFML.System.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/SFML.Window.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-audio.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-graphics.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-system.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libcsfml-window.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-audio.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-graphics.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-system.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-system.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-window.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-window.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/alpine-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-audio.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-graphics.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-system.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libcsfml-window.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-audio.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-graphics.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-system.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-system.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-window.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-window.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/debian-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-audio.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-graphics.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-system.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-system.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-window.so
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-window.so.2.5
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/fedora-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-Audio.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-Graphics.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-System.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x64/native/csfml-Window.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x64/native/openal32.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-Audio.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-Graphics.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-System.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x86/native/csfml-Window.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/bin/Debug/net6.0/runtimes/win-x86/native/openal32.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.csproj.AssemblyReference.cache
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.AssemblyInfoInputs.cache
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.AssemblyInfo.cs
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.csproj.CoreCompileInputs.cache
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.csproj.CopyComplete
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/refint/Snake.dll
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.pdb
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/Snake.genruntimeconfig.cache
+/Users/vitaly/Downloads/Snake_Final/Snake/obj/Debug/net6.0/ref/Snake.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.exe
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.Audio.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.Graphics.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.System.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.Window.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.Up2Date
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\Users\Илья\RiderProjects\Основы ООП неделя 4\Snake_Final\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.exe
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.Audio.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.Graphics.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.System.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\SFML.Window.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.Up2Date
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\Users\Илья\RiderProjects\OOP week 4\Snake_Final\Snake\obj\Debug\net6.0\ref\Snake.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\Snake.exe
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\Snake.deps.json
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\Snake.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\Snake.pdb
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\SFML.Audio.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\SFML.Graphics.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\SFML.System.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\SFML.Window.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.csproj.Up2Date
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.dll
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\refint\Snake.dll
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.pdb
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+D:\unity\project\Snake_Final\Snake\obj\Debug\net6.0\ref\Snake.dll
+D:\unity\project\Snake_Final\Snake\bin\Debug\net6.0\Assets\Fonts\FreeMonospaced.ttf
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\Assets\Fonts\FreeMonospaced.ttf
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\Snake.exe
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\Snake.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\SFML.Audio.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\SFML.Graphics.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\SFML.System.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\SFML.Window.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+D:\unity\project\Snake\Snake\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.sourcelink.json
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.csproj.Up2Date
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.dll
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\refint\Snake.dll
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+D:\unity\project\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
